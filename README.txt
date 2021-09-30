@@ -1,4 +1,4 @@
-Combining either Cartesian coordinates (x,y) or using polar coordinates (radius, theta), calculus,
+Combining Cartesian coordinates (x,y) or using polar coordinates (radius, theta), calculus,
 some basic statistics stuff that I remember, and a bit of just-crazy-enough-to-work attitude
 
 (1) objectively measure how good a group is,
