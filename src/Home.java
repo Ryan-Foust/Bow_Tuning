@@ -1,7 +1,7 @@
-public class Start {
+public class Home {
     /**
-     * Combining Cartesian coordinates (x,y) or using polar coordinates (radius, theta), calculus,
-     * some basic statistics stuff that I remember, and a bit of just-crazy-enough-to-work attitude
+     * Combining Cartesian coordinates (x,y) or polar coordinates (radius, theta), calculus,
+     * statistics, geometry, and a bit of just-crazy-enough-to-work attitude
      *
      * (1) objectively measure how good a group is,
      * based on either distance to each other or distance to the center of them.
